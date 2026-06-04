@@ -9,7 +9,7 @@ export default function Home() {
             Inventory Management Updated
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
-            Streamline your inventory tracking with our powerful, easy to use
+            Streamline your inventory tracking with our powerful, easy-to-use
             management system. Track products, monitor stock levels, and gain valuable insights updated. 
           </p>
           <div className="flex gap-4 justify-center">
